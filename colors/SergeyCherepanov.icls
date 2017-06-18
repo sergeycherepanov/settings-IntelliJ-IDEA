@@ -1,11 +1,4 @@
 <scheme name="SergeyCherepanov" version="142" parent_scheme="Darcula">
-  <metaInfo>
-    <property name="created">2017-04-25T21:25:17</property>
-    <property name="ide">Idea</property>
-    <property name="ideVersion">2016.2.2.0.0</property>
-    <property name="modified">2017-04-25T21:26:40</property>
-    <property name="originalScheme">Darcula</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
