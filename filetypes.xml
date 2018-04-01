@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping ext="dsl" type="Groovy" />
       <mapping ext="dat" type="PLAIN_TEXT" />
