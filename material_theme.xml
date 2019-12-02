@@ -1,0 +1,16 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="highlightThickness" value="4" />
+    <option name="settingsSelectedTab" value="2" />
+    <option name="accentColor" value="ffd866" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="userId" value="-4d0fe34a:16ec8c2b1ab:-8000" />
+    <option name="version" value="4.10.0" />
+  </component>
+</application>
